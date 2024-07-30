@@ -2,7 +2,7 @@
 
 ## Overview
 
-Personal Manager is a robust and efficient task management application designed to help you organize and prioritize your personal and professional tasks. Built with React for the front-end, Redux for state management, and leveraging local storage for persistent data, this application ensures a seamless and user-friendly experience.
+Personal Manager is a robust and efficient task management application designed to help you organize and prioritize your personal and professional tasks. Built with React for the front end, Redux for state management, and leveraging local storage for persistent data, this application ensures a seamless and user-friendly experience.
 
 ## Features
 
@@ -20,12 +20,19 @@ Personal Manager is a robust and efficient task management application designed 
 ## Installation
 
 1. Clone the repository:
+2. ```bash
    git clone https://github.com/yourusername/personal-manager.git
-2. Navigate to the project directory:
+   
+3. Navigate to the project directory:
+4. ```bash
    cd personal-manager
-3. Install dependencies:
+   
+5. Install dependencies:
+6. ```bash
    npm install
-4. Start the development server:
+   
+7. Start the development server:
+8. ```bash
    npm start
 
 Usage
